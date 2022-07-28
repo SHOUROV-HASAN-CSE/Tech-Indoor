@@ -3,3 +3,9 @@
   padding:3px;
   color: #fff;
 }
+@media (min-width: 992px){
+  .faq-width{
+    width:50%;
+  }
+
+}
