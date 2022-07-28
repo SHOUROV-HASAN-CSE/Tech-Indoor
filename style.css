@@ -1,6 +1,5 @@
-.fagold{
-  color: gold;
-}
-.fasilver{
-  color: darkgray;
+.footer-icon i{
+  font-size:30px;
+  padding:3px;
+  color: #fff;
 }
